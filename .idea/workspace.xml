@@ -2,31 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551ced08-ae2e-456a-87d7-0667b5d7bab7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/assets/plugin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/assets/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/book/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/_layouts/website/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/src/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/son1.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/fonts/fontawesome/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-donate/plugin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-donate/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-edit-link/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-fontsettings/website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-github-buttons/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-github-buttons/plugin.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-highlight/ebook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-highlight/website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-livereload/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-lunr/lunr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-lunr/search-lunr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-search/lunr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-search/search-engine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-search/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook-plugin-sharing/buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/gitbook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/images/apple-touch-icon-precomposed-152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitbook/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/son1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cyc_gitbook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/cyc_gitbook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-edit-link/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-github-buttons/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-github-buttons/plugin.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-livereload/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/search-lunr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search-engine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/gitbook/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/son1.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -129,7 +175,7 @@
       <workItem from="1612408384847" duration="60000" />
       <workItem from="1612408457988" duration="55000" />
       <workItem from="1612408527301" duration="1085000" />
-      <workItem from="1612409841779" duration="6479000" />
+      <workItem from="1612409841779" duration="6809000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1612428100316</created>
@@ -145,11 +191,18 @@
       <option name="project" value="LOCAL" />
       <updated>1612428365375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ddd">
+      <created>1612430068171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612430068171</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7679000" />
+    <option name="totallyTimeSpent" value="8009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
