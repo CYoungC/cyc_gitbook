@@ -3,6 +3,30 @@
   <component name="ChangeListManager">
     <list default="true" id="551ced08-ae2e-456a-87d7-0667b5d7bab7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/assets/plugin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/assets/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/book/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-edit-link/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/_layouts/website/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/lib/plugin.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github-buttons/src/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/son1.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,41 +36,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="son1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/son1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="2" selection-start-line="2" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -139,7 +129,7 @@
       <workItem from="1612408384847" duration="60000" />
       <workItem from="1612408457988" duration="55000" />
       <workItem from="1612408527301" duration="1085000" />
-      <workItem from="1612409841779" duration="5806000" />
+      <workItem from="1612409841779" duration="6479000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1612428100316</created>
@@ -148,11 +138,18 @@
       <option name="project" value="LOCAL" />
       <updated>1612428100316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ddd">
+      <created>1612428365375</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612428365375</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7006000" />
+    <option name="totallyTimeSpent" value="7679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
